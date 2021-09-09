@@ -14,6 +14,8 @@ Additionally, contributions must not contain contain content that:
 - endorses or advocates for colonialism, slavery or involuntary servitude, now, in the past or in the future
 - supports or depicts war or weapons or violence against any human being or animal
 - is libellous, defamatory or contains unsubstantiated criticism of a person, company or organization
+- is legal, financial, investment or medical advice
+- promotes any regulated securities or financial product in the United Kingdom or the United States
 
 ## Style Guide
 
