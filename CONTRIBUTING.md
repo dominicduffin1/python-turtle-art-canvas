@@ -10,6 +10,7 @@ Additionally, contributions must not contain contain content that:
 - breaches the Intellectual Property, including but not limited to Copyright, Patent or Trademark, rights of any party under United Kingdom, United States or international IP law
 - is blasphemous
 - explicitly supports or opposes any political party, religion, candidate for election to political or religious office, or person holding political or religious office
+- mocks, caricatures or insults a Head of State or Royal Family
 - advertises goods or services offered by the contributor
 - endorses or advocates for colonialism, slavery or involuntary servitude, now, in the past or in the future
 - supports or depicts war or weapons or violence against any human being or animal
