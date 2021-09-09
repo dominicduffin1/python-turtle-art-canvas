@@ -13,6 +13,7 @@ Additionally, contributions must not contain contain content that:
 - advertises goods or services offered by the contributor
 - endorses or advocates for colonialism, slavery or involuntary servitude, now, in the past or in the future
 - supports or depicts war or weapons or violence against any human being or animal
+- is libellous, defamatory or contains unsubstantiated criticism of a person, company or organization
 
 ## Style Guide
 
