@@ -27,6 +27,12 @@ All branches should be created from the `parent` branch and the branch name shou
 
 - Issue templates
 
+## Pull requests
+
+Pull requests should reference an issue. Please also follow any specific instructions on the issue you are references.
+
+Contributions to the artwork should include a description/explanation of what your contribution.
+
 ## Steps for making your contribution
 
 - Workflow
