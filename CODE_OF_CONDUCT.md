@@ -46,4 +46,4 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, maintainer(s) may take any action they deem appropriate, up to and including expulsion from the repository and all spaces connected with the repository and identification of the participant as a harasser to other contributors or maintainers or the general public.
 
-This anti-harassment policy is based on the [example policy](https://geekfeminism.wikia.org/wiki/Community_anti-harassment) from the Geek Feminism wiki, created by the Geek Feminism community.
+This anti-harassment policy is adapted from the [example policy](https://geekfeminism.wikia.org/wiki/Community_anti-harassment) from the Geek Feminism wiki, created by the Geek Feminism community.
