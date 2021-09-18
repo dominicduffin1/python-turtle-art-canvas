@@ -38,7 +38,16 @@ Contributions to the artwork should include a description/explanation of what yo
 
 ## Steps for making your contribution
 
-- Workflow
+### Git workflow
+
+* Fork the repository to your personal Github account.
+* Clone the repository to your local machine.
+* Add this repository as a remote `git remote add upstream https://github.com/dominicduffin1/python-turtle-art-canvas.git`.
+* Create a branch.
+* Write the code.
+* Please pull `parent` into your branch before making a pull request `git pull upstream parent`.
+* Push your branch to your forked version of the repositroy.
+* Open a pull request against the `parent` branch of this repository.
 
 ## General
 
