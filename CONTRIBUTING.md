@@ -28,7 +28,7 @@ All branches should be created from the `parent` branch and the branch name shou
 
 ## Issues
 
-- Issue templates
+Issue templates are provided for most scenarios. If the issue you want to make fits one of the scenarios, please fill out the provided issue template.
 
 ## Pull requests
 
@@ -37,6 +37,10 @@ Pull requests should reference an issue. Please also follow any specific instruc
 Contributions to the artwork should include a description/explanation of what your contribution.
 
 ## Steps for making your contribution
+
+### Assignment
+
+Unless the issue is marked 'assignment not required' please comment on the issue you want to work on and wait to be assigned before starting to work on it.
 
 ### Git workflow
 
