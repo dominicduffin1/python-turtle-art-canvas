@@ -20,6 +20,8 @@ Additionally, contributions must not contain contain content that:
 
 ## Style Guide
 
+This project uses Python 3.
+
 For consistency, it is preferred that you use American spellings when working on code or documentation for this project.
 
 ## Branch conventions
@@ -32,7 +34,7 @@ Issue templates are provided for most scenarios. If the issue you want to make f
 
 ## Pull requests
 
-Pull requests should reference an issue. Please also follow any specific instructions on the issue you are references.
+Pull requests should reference an issue. Please also follow any specific instructions on the issue you are referencing.
 
 Contributions to the artwork should include a description/explanation of what your contribution.
 
