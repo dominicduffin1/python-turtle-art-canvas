@@ -22,11 +22,19 @@ This project is licensed under [this license](https://github.com/dominicduffin1/
 
 ## Running the program
 
-- TODO
+You need to have Python 3 installed on your computer. Python can be downloaded [here](https://www.python.org/downloads/). Or use your favorite package manager.
+
+### Windows
+
+To run the program, open the root directory in your terminal and type `python main.py`. If you have mutliple versions of Python installed on your computer, you can use `py -<version number> main.py` for example `py -3.9 main.py` to ensure you are using Python 3 and not Python 2.
+
+### Mac
+
+### Linux
 
 ## Roadmap
 
 2021: Start accepting contributions to a basic Turtle Graphics canvas.
-2022 onwards: Build on this by creating a user interface and multiple canvases. 
+2022 onwards: Build on this by creating a user interface, probably a command line interface, and multiple canvases. 
 
 Other ideas on how to extend the project are welcome and can be put forward at any time using the 'Suggestion' issue template.
