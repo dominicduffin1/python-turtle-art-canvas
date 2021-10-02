@@ -2,7 +2,7 @@
 
 ## Project status
 
-This project is currently being prepared. I am planning to open it for contributions on October 1, 2021.
+This project is currently open for contributions to an initial first canvas. Let your imagination flow on [Issue #3](https://github.com/dominicduffin1/python-turtle-art-canvas/issues/3)
 
 ## Code of Conduct
 
