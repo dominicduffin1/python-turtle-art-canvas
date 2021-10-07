@@ -30,6 +30,12 @@ To run the program, open the root directory in your terminal and type `python ma
 
 ### Mac
 
+To run the program, open the root directory in your terminal and type `python main.py`. If you have mutliple versions of Python installed on your computer, you can use `python -<version number> main.py` for example `python3.9 main.py` to ensure you are using Python 3 and not Python 2.
+
+• CD into the folder that contain main.py
+• type Python3 main.py
+• the turtle window should open
+
 ### Linux
 
 ## Roadmap
