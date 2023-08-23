@@ -40,10 +40,8 @@ To run the program, open the root directory in your terminal and type `python ma
 
 ## Roadmap
 
-September / October 2021: Prepare the repository.
+2023: Re-promote the project and accept contributions to a basic Turtle Graphics canvas.
 
-October 2021: Start accepting contributions to a basic Turtle Graphics canvas.
-
-2022 onwards: Build on this by creating a user interface, probably a command line interface, and multiple canvases. 
+The future: Build on this by creating a user interface, probably a command line interface, and multiple canvases. 
 
 Other ideas on how to extend the project are welcome and can be put forward at any time using the 'Suggestion' issue template.
