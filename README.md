@@ -38,10 +38,20 @@ To run the program, open the root directory in your terminal and type `python ma
 
 ### Linux
 
+Install python3-tk on your system, if you haven't done yet.
+
+`sudo apt-get install python3-tk`
+
+• CD into the python-turtle-art-canvas
+
+• type python3 main.py in terminal
+
+• the turtle window should open
+
 ## Roadmap
 
 2023: Re-promote the project and accept contributions to a basic Turtle Graphics canvas.
 
-The future: Build on this by creating a user interface, probably a command line interface, and multiple canvases. 
+The future: Build on this by creating a user interface, probably a command line interface, and multiple canvases.
 
 Other ideas on how to extend the project are welcome and can be put forward at any time using the 'Suggestion' issue template.
