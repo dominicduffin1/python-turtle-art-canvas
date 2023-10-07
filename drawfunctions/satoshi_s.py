@@ -19,6 +19,3 @@ def base():
     t.left(90)
     t.forward(20)
     t.end_fill()
-
-    # Close the turtle graphics window
-    turtle.done()
