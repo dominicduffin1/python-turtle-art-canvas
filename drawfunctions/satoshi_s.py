@@ -5,6 +5,7 @@ def base():
     t = turtle.Turtle()
     t.color("brown")
 
+    t.hideturtle()
     t.penup()
     t.goto(-2, -10)
     t.pendown()
