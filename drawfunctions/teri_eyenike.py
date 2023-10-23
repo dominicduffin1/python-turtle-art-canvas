@@ -1,19 +1,21 @@
-from turtle import *
+from turtle import Turtle, Screen
 
 def draw_shape():
-  shape('circle')
-  setup(1.0, 1.0)
-  bgcolor('black')
-  speed(10)
-  pensize(5)
-  pencolor('magenta')
+  turtle = Turtle()
+  Screen().setup(1.0, 1.0)
+  Screen().bgcolor('black')
+
+  turtle.shape('circle')
+  turtle.speed(10)
+  turtle.pensize(5)
+  turtle.pencolor('magenta')
 
   for i in range(4):
-    forward(100)
-    left(90)
+    turtle.forward(100)
+    turtle.left(90)
 
   for i in range(36):
-    circle(50)
-    left(10)
+    turtle.circle(50)
+    turtle.left(10)
 
-  hideturtle()
+  turtle.hideturtle()
