@@ -17,5 +17,3 @@ def draw_shape():
     left(10)
 
   hideturtle()
-
-draw_shape()
