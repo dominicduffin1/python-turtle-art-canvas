@@ -1,14 +1,20 @@
 from turtle import Turtle, Screen
 
 def draw_shape():
-  turtle = Turtle()
-  Screen().setup(1.0, 1.0)
-  Screen().bgcolor('black')
 
-  turtle.shape('circle')
+  turtle = Turtle()
+  screen = Screen()
+  screen.colormode(255)
+
+  turtle.hideturtle()
+  turtle.penup()
+  turtle.setposition((-150,-50))
+  turtle.begin_fill()
+  turtle.pendown()
+  turtle.color((0, 0, 0), (0, 0, 0))
   turtle.speed(10)
   turtle.pensize(5)
-  turtle.pencolor('magenta')
+  turtle.pencolor('#bf9900')
 
   for i in range(4):
     turtle.forward(100)
@@ -18,4 +24,4 @@ def draw_shape():
     turtle.circle(50)
     turtle.left(10)
 
-  turtle.hideturtle()
+  turtle.end_fill()
